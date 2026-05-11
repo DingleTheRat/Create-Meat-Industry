@@ -1,0 +1,13 @@
+{
+  "itemGroup.createmeatindustry": "Example Mod Tab",
+  "block.createmeatindustry.example_block": "Example Block",
+  "item.createmeatindustry.example_item": "Example Item",
+
+  "createmeatindustry.configuration.title": "Create: Meat Industry Configs",
+  "createmeatindustry.configuration.section.createmeatindustry.common.toml": "Create: Meat Industry Configs",
+  "createmeatindustry.configuration.section.createmeatindustry.common.toml.title": "Create: Meat Industry Configs",
+  "createmeatindustry.configuration.items": "Item List",
+  "createmeatindustry.configuration.logDirtBlock": "Log Dirt Block",
+  "createmeatindustry.configuration.magicNumberIntroduction": "Magic Number Text",
+  "createmeatindustry.configuration.magicNumber": "Magic Number"
+}
